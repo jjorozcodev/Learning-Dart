@@ -1,2 +1,2 @@
 # Learning-Dart
-My codelabs with Dart language.
+My practices with Dart language using Dart SDK and VS Code with Dart extension.
